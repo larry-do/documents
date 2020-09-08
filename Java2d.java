@@ -1,5 +1,5 @@
 package java2d;
-
+https://photos.app.goo.gl/hhs6MzP3sHhzRH1c8
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Dimension;
